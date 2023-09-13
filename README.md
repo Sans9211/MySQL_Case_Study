@@ -1,4 +1,8 @@
 # Patients Data Analysis
+
+## Objective
+Analyzing patient data using MySQL Workbench to provide insights for healthcare professionals and organizations.
+
 ## Overview
  Q1. Write a SQl query to fetch current dat-time from the system  
  
