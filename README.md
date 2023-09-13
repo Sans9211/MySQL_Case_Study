@@ -68,5 +68,5 @@ Certainly, here's a shorter version of your storytelling narrative in bullet poi
 
 ## **Contact:**
 
-For questions please reach out at https://www.linkedin.com/in/sanskriti-choudante-2b601b242
+For questions or any feedback please reach out at https://www.linkedin.com/in/sanskriti-choudante-2b601b242
 
